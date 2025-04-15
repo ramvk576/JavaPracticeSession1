@@ -1,4 +1,4 @@
- package javaSession1;
+package javaSession1;
 
 public class SwichCasePractice {
 
